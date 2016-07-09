@@ -152,7 +152,7 @@ function Converter(){
 		});
 	}
 	var API = {
-		searchDirectory: searchDir
+		convert: searchDir
 	}
 
 
@@ -163,6 +163,6 @@ function Converter(){
 
 
 var run = Converter();
+run.convert("./");
 
-
-run.searchDirectory("./");
+module.exports = Converter;
