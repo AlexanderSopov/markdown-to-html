@@ -1,4 +1,4 @@
-# markdown-to-html
+# Convert Markdown files into HTML's
 node module that converts all md files within a directory into a html folder.
 
 ## Prerequisites
