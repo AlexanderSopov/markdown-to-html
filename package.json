@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/AlexanderSopov/You-Dont-Know-JS.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alexander Sopov",
+  "license": "Apache",
   "bugs": {
     "url": "https://github.com/AlexanderSopov/You-Dont-Know-JS/issues"
   },
